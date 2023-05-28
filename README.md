@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianvan01
 - 👀 I’m interested in soccer and architechture
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on R programming, SQL, and Excel
+- 💞️ I’m looking to collaborate on Python, SQL, Excel, PowerBI, and Tableau
 - 📫 Reach me at vtuan0192@gmail.com
 
 <!---
